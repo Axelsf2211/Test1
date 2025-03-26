@@ -10,3 +10,4 @@ st.markdown(
 search_query = st.text_input("🔍 Rechercher :", "")
 if search_query:
     st.write(f"Résultats pour : **{search_query}**")
+st.image("https://media.istockphoto.com/photos/defocused-backyard-background-picture-id1125087982?k=20&m=1125087982&s=612x612&w=0&h=DOP2B-pjMzXxQjkSecVdZP-JuFpKXkMCMfx9MAlFDho=", caption="créée un compte premium pour voir cette image")
