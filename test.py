@@ -4,7 +4,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown(
-    "<h1 style='font-size:10px; font-family:Arial; color:grey;'text-align: center;'>Photos de charme accessibles gratuitement</h1>", 
+    "<h1 style='font-size:20px; font-family:Arial; color:grey;'text-align: center;'>Photos de charme accessibles gratuitement</h1>", 
     unsafe_allow_html=True
 )
 search_query = st.text_input("🔍 Rechercher :", "")
